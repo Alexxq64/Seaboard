@@ -7,8 +7,8 @@ public class Main {
     public static void main(String[] args) {
 
         SeaBoard board = new SeaBoard();
-//        board.shoot(0, 0, m);
-//        board.getField();
+        board.shoot(0, 0, m);
+        board.getField();
 //        System.out.println();
 //        board.shoot(2, 0, h);
 //        board.getField();
